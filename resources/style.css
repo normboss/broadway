@@ -31,3 +31,27 @@ h1 {
 a {
     color: white;
 }
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 23px;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.process {
+font-weight: bold;    
+}
+
+.newyork {
+    color: white;
+    background-image: url(./images/the-flatiron-building.png);
+}
+

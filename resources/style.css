@@ -13,9 +13,21 @@ body {
     font-family: Helvetica;
 }
 
-.header {
+.header-section {
     background-image: url(./images/the-flatiron-building.png);
     color: white;
+}
+
+h1 {
     font-weight: bold;
     font-size: 70px;
+}
+
+.header-link {
+    font-size: 18px;
+    color: white;
+}
+
+a {
+    color: white;
 }
